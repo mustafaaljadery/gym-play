@@ -1,4 +1,4 @@
-# Misalignment Toy Example
+# Toy Example
 
 - The Q learning algorithm memorizes the path vs the the actual reward chest.
 - It's very simple, and everyone understand the reason for misalignment here - the training environment is not diverse.
